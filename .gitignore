@@ -1,0 +1,15 @@
+# Ignore build artifacts
+build/
+bin/
+obj/
+
+# Ignore .xmake cache
+.xmake/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
